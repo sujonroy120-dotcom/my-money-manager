@@ -1,4 +1,4 @@
-name: Build Arthashastra V3
+name: Build My Money Manager
 
 on:
   push:
